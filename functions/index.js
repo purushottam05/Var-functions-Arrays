@@ -28,6 +28,17 @@ var c = function xyz() {
 } 
 c();
 
+//params and args -->
+
+let d = function (params1, params2 ) //-> parameters
+{
+    console.log("function exp");
+}
+
+d(2,4); //-> args
+
+// first class functions --> the ability to use functions as values, passed as arguments
+
 
 
 
