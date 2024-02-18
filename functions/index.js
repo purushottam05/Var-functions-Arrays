@@ -27,6 +27,7 @@ var c = function xyz() {
 
 } 
 c();
+xyz();
 
 //params and args -->
 
